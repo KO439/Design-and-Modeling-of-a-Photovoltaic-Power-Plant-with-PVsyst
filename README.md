@@ -10,6 +10,10 @@ Welcome to the repository of my academic project focused on the design and model
   Detailed study, design, sizing, and simulation results of the PV plant.  
   File: `centrale-photovoltaique_Project.VC1-Report-2.pdf`
 
+- 🖼️ **Project Images**  
+  ![Image 1](./Messenger_creation_8B2C1230-C72D-4E53-B176-3D76148135FE.jpeg)  
+  ![Image 2](./Screenshot_20250811_121731_Canva.jpg)
+
 ---
 
 ## 📄 Download the Report
